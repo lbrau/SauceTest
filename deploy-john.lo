@@ -1,0 +1,18 @@
+Loading composer repositories with package information
+Installing dependencies (including require-dev) from lock file
+Warning: The lock file is not up to date with the latest changes in composer.json. You may be getting outdated dependencies. Run update to update them.
+Nothing to install or update
+Generating autoload files
+Could not open input file: paratest
+Script php paratest bin/my_test_etna.php  handling the post-install-cmd event returned with an error
+
+
+                      
+  [RuntimeException]  
+  Error Output:       
+                      
+
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-plugins] [--no-custom-installers] [--no-scripts] [--no-progress] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [packages1] ... [packagesN]
+
+
